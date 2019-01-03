@@ -1,0 +1,7 @@
+Plan:
+
+If time left:
+Function times optimal threadNum for current GPU
+Kernel as template of length
+=> Padding can be precalculated
+Other algorithms like SHA1
